@@ -1,0 +1,3 @@
+tkinter
+nltk
+nltk.sentiment.vader
